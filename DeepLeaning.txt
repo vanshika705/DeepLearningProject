@@ -1,0 +1,35 @@
+1. OVERVIEW OF DEEP LEARNING :-
+Deep learning is a subset of machine learning.
+It is capable of learning complex patterns and relationships within the data.
+IT works on the basis of ANN.
+ANN --> Aritificial Neural Network based on Biological Neural Network.
+
+2. DEEP LEARNING V/S MACHINE LEARNING :- 
+uses ANN for learning                     |  apply statistical algo for learning          
+can work on the smaller amount of dataset |  requires the larger volumn of dataset
+suitable of low-label task                |  suitable of complex task
+take less time to train the model         |  take more time to train the model
+
+3. BIOLOGICAL NEURON --> It is a tiny worker in human brain that helps them to think and process information.
+These tiny worker make neuron network if grouped together.
+New born baby brain is capable of learning new things easily.
+
+4. ARCHITECTURE OF ANN :-
+a. Input layer --> takes input , only 1 layer
+b. Hidden layers --> inermediate, processes the input , have multiple layer 
+c. Output layer --> generates output , only 1 layer
+Hidden layers have full connected funtionality means that each hidden layer takes all the input.
+
+ANN Training is divided into two parts --> Forward and Backward
+w --> weight
+b --> bais 
+w and b are initialized randomly in starting.
+Activation functions ---> ex. sigmoid.
+z is passes by activation functions.
+loss --> error 
+
+
+
+
+
+
