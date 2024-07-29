@@ -16,11 +16,11 @@ New born baby brain is capable of learning new things easily.
 
 4. ARCHITECTURE OF ANN :-
 a. Input layer --> takes input , only 1 layer
-b. Hidden layers --> inermediate, processes the input , have multiple layer 
+b. Hidden layers --> inermediate, processes the input , have multiple layer (hyper-parameters)
 c. Output layer --> generates output , only 1 layer
 Hidden layers have full connected funtionality means that each hidden layer takes all the input.
 
-ANN Training is divided into two parts --> Forward and Backward
+ANN Training is divided into two parts --> Forward propogation and Backward propogation
 w --> weight
 b --> bais 
 w and b are initialized randomly in starting.
